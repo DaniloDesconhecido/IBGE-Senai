@@ -14,11 +14,7 @@ Esse projeto faz parte da atividade avaliativa da disciplina de Desenvolvimento 
 ============================
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-[Foto]() | 
-[Nome](Danilo de Jesus Cruz) |
-[GitHub](https://github.com/DaniloDesconhecido) |
-[Linkedin]() |
-[E-mail](rapform@gmail.com)
+[Foto]() | [Nome](Danilo de Jesus Cruz) |[GitHub](https://github.com/DaniloDesconhecido) [Linkedin]() |[E-mail](rapform@gmail.com)
 
 **Tecnologias**
 
