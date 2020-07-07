@@ -14,10 +14,10 @@ Esse projeto faz parte da atividade avaliativa da disciplina de Desenvolvimento 
 ============================
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-<img src="./doc/levi.jpg" width="100px">  
-[Nome](Danilo de Jesus Cruz) 
-[GitHub](https://github.com/DaniloDesconhecido) 
-[Linkedin]()  
+[Foto]() | 
+[Nome](Danilo de Jesus Cruz) |
+[GitHub](https://github.com/DaniloDesconhecido) |
+[Linkedin]() |
 [E-mail](rapform@gmail.com)
 
 **Tecnologias**
